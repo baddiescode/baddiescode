@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://kaminahportfolio.netlify.app">
+  <img src="./images/baddiescode.png" width="100%">
+</a>
+
 <!--
 **baddiescode/baddiescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
